@@ -20,4 +20,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "motion-stump", "~> 0.3"
   spec.add_development_dependency "motion-redgreen", "~> 0.1"
   spec.add_development_dependency "rake"
+  spec.add_development_dependency "motion-require"
 end
